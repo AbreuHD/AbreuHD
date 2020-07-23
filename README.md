@@ -53,7 +53,7 @@ list of languages that I seek to learn and do projects with them,  maybe there a
 [![Twitter](https://img.shields.io/badge/Twitter-@abreuhdm-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/AbreuHDm)
 [![Instagram](https://img.shields.io/badge/Instagram-@abreuhd-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/abreuhd)
 [![Facebook](https://img.shields.io/badge/Facebook-@jefferson272003-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/Jefferson272003)
-</br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson_Abreu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jefferson-abreu-martinez/)
-</br>
+
 [![Email](https://img.shields.io/badge/abreumartinezjefferson@gmail.com-my_personal_email_-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:abreumartinezjefferson@gmail.com)
