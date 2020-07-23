@@ -9,7 +9,7 @@
 🧮 learning programming, I seek to learn many languages here you will see my progress (my list of languages to learn and those learned) also projects that I will do ... just keep going down you will see
 <h2 align="center"></h2>
 
-
+</br>
 Some languages that are on my list to learn or that I'm learning right now                                                                                                
 Possibly there are many at once, the reason is that I learn to make projects that will soon be here or are already just keep going down and seeing
 
@@ -21,7 +21,7 @@ Possibly there are many at once, the reason is that I learn to make projects tha
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-
+</br>
 list of languages that I seek to learn and do projects with them,  maybe there are many, maybe not ... they will not be updated as time goes by and surely there will be more later 😁😁
 
 ## Interest list:
