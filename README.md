@@ -2,7 +2,7 @@
 <img align='left' src='https://raw.githubusercontent.com/AbreuHD/AbreuHD/master/gifs/noragami.gif' width='160"'>  
 
 # BIO
-17 years, from the Dominican Republic...
+18 years, from the Dominican Republic...
   
   lover of anime, comics, animals, video games, movies and computer science
 
