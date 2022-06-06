@@ -1,4 +1,4 @@
-<img align='right' src='https://raw.githubusercontent.com/AbreuHD/AbreuHD/master/gifs/mikasa.gif' width='160"'>  
+<img align='right' src='https://raw.githubusercontent.com/AbreuHD/AbreuHD/master/gifs/mikasa.gif' width='160" height='50"'>  
 <img align='left' src='https://raw.githubusercontent.com/AbreuHD/AbreuHD/master/gifs/noragami.gif' width='160"'>  
 
 # BIO
