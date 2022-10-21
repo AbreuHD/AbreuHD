@@ -42,7 +42,7 @@
 <br>
 
 <h2 align="center">My most important or major public projects</h2>
-<a href="https://github.com/AbreuHD/Kuhaku">
+<a href="https://github.com/AbreuHD/KuhakuAPI">
   		<img src="https://raw.githubusercontent.com/AbreuHD/AbreuHD/master/gifs/banner.png">
 </a>
 
