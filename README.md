@@ -5,7 +5,7 @@
 <h1> Hi visitor < Developer/ >! <img src = "https://uxwing.com/wp-content/themes/uxwing/download/37-communication-chat-call/hi.svg" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AbreuHD.AbreuHD)
+[![](https://visitcount.itsvg.in/api?id=AbreuHD&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 </p>
 <div size='20px'> Hi! My name is Jefferson Abreu. Thank You for taking the time to view my GitHub Profile :smile: 
